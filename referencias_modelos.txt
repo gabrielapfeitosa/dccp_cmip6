@@ -1,0 +1,31 @@
+Referências - Modelos CMIP6 Decadal
+
+Bethke, I., Wang, Y., Counillon, F., Keenlyside, N., Kimmritz, M., Fransner, F., Samuelsen, A., Langehaug, H., Svendsen, L., Chiu, P.G. and Passos, L., (2021). NorCPM1 and its contribution to CMIP6 DCPP. Geoscientific Model Development, 14, 7073-7116. https://doi.org/10.5194/gmd-14-7073-2021.
+
+Bilbao, R., Wild, S., Ortega, P., Acosta-Navarro, J., Arsouze, T., Bretonnière, P.A., Caron, L.P., Castrillo, M., Cruz-García, R., Cvijanovic, I. and Doblas-Reyes, F.J., (2021). Assessment of a full-field initialized decadal climate prediction system with the CMIP6 version of EC-Earth. Earth System Dynamics, 12, pp.173-196. https://doi.org/10.5194/esd-12-173-2021.
+
+Boucher, O., Servonnat, J., Albright, A.L., Aumont, O., Balkanski, Y., Bastrikov, V., Bekki, S., Bonnet, R., Bony, S., Bopp, L. and Braconnot, P., (2020). Presentation and evaluation of the IPSL‐CM6A‐LR climate model. Journal of Advances in Modeling Earth Systems, 12, p.e2019MS002010. https://doi.org/10.1029/2019MS002010.
+
+Cherchi, A., Fogli, P.G., Lovato, T., Peano, D., Iovino, D., Gualdi, S., Masina, S., Scoccimarro, E., Materia, S., Bellucci, A. and Navarra, A., (2019). Global mean climate and main patterns of variability in the CMCC‐CM2 coupled model. Journal of Advances in Modeling Earth Systems, 11, 185-209. https://doi.org/10.1029/2018MS001369.
+
+Döscher, R., Acosta, M., Alessandri, A., Anthoni, P., Arneth, A. and Arsouze, T., (2022). The EC-Earth3 Earth system model for the Coupled Model Intercomparison Project 6. Geosci. Model Dev., 15, 2973–3020. https://doi.org/10.5194/gmd-15-2973-2022.
+
+Hu, S., Wu, B., Wang, Y., Zhou, T., Yu, Y., He, B., Lin, P., Bao, Q., Liu, H., Chen, K. and Zhao, S., (2023). CAS FGOALS-f3-L Model Datasets for CMIP6 DCPP Experiment. Advances in Atmospheric Sciences, 1-12. https://doi.org/10.1007/s00376-023-2122-x.
+
+Mauritsen, T., Bader, J., Becker, T., Behrens, J., Bittner, M., Brokopf, R., Brovkin, V., Claussen, M., Crueger, T., Esch, M. and Fast, I., (2019). Developments in the MPI‐M Earth System Model version 1.2 (MPI‐ESM1. 2) and its response to increasing CO2. Journal of Advances in Modeling Earth Systems, 11, 998-1038. https://doi.org/10.1029/2018MS001400.
+
+Müller, W.A., Jungclaus, J.H., Mauritsen, T., Baehr, J., Bittner, M., Budich, R., Bunzel, F., Esch, M., Ghosh, R., Haak, H. and Ilyina, T., (2018). A higher‐resolution version of the max planck institute earth system model (MPI‐ESM1. 2‐HR). Journal of Advances in Modeling Earth Systems, 10, 1383-1413. https://doi.org/10.1029/2017MS001217.
+
+Séférian, R., Nabat, P., Michou, M., Saint-Martin, D., Voldoire, A., Colin, J., et al (2019). Evaluation of CNRM Earth-System model, CNRM-ESM2-1: role of Earth system processes in present-day and future climate. Journal of Advances in Modeling Earth Systems, 11, 4182– 4227. https://doi.org/10.1029/2019MS001791.
+
+Sellar, A.A., Walton, J., Jones, C.G., Wood, R., Abraham, N.L., Andrejczuk, M., Andrews, M.B., Andrews, T., Archibald, A.T., de Mora, L. and Dyson, H., (2020). Implementation of UK Earth system models for CMIP6. Journal of Advances in Modeling Earth Systems, 12, e2019MS001946. https://doi.org/10.1029/2019MS001946.
+
+Swart, N.C., Cole, J.N., Kharin, V.V., Lazare, M., Scinocca, J.F., Gillett, N.P., Anstey, J., Arora, V., Christian, J.R., Hanna, S. and Jiao, Y. (2019).The Canadian Earth System Model version 5 (CanESM5.0.3). Geosci. Model Dev., 12, 4823–4873. https://doi.org/10.5194/gmd-12-4823-2019.
+
+Tatebe, H., Ogura, T., Nitta, T., Komuro, Y., Ogochi, K., Takemura, T., Sudo, K., Sekiguchi, M., Abe, M., Saito, F. and Chikira, M., (2019). Description and basic evaluation of simulated mean state, internal variability, and climate sensitivity in MIROC6. Geoscientific Model Development, 12, 2727-2765. https://doi.org/10.5194/gmd-12-2727-2019.
+
+Wu, T., Lu, Y., Fang, Y., Xin, X., Li, L., Li, W., Jie, W., Zhang, J., Liu, Y., Zhang, L. and Zhang, F., (2019). The Beijing Climate Center climate system model (BCC-CSM): The main progress from CMIP5 to CMIP6. Geosci. Model Dev., 12, 1573-1600. https://doi.org/10.5194/gmd-12-1573-2019.
+
+Yukimoto, S., Kawai, H., Koshiro, T., Oshima, N., Yoshida, K., Urakawa, S., Tsujino, H., Deushi, M., Tanaka, T., Hosaka, M. and Yabu, S., (2019). The Meteorological Research Institute Earth System Model version 2.0, MRI-ESM2. 0: Description and basic evaluation of the physical component. Journal of the Meteorological Society of Japan. Ser. II, 97, 931-965. https://doi.org/10.2151/jmsj.2019-051.
+
+
